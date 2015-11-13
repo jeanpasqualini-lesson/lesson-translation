@@ -1,0 +1,5 @@
+{
+  "Symfony is great" : "Symfony est le meuilleur",
+  "Hello %name%" : "Bonjour %name%",
+  "apple.choice" : "une pomme|%count% pommes"
+}
