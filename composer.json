@@ -1,0 +1,23 @@
+{
+    "name": "jean-pasqualini-lesson/lesson-translation",
+    "type": "project",
+    "require": {
+        "symfony/translation": "3.0.*",
+        "symfony/yaml": "3.0.*",
+        "symfony/config": "3.0.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean Pasqualini",
+            "email": "jpasqualini75@gmail.com"
+        }
+    ],
+  "autoload" :
+  {
+     "psr-4" :
+     {
+        "" : "src/"
+     }
+  }
+}
